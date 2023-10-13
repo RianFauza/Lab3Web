@@ -1,7 +1,7 @@
 # Lab3Web
 
 # Pertanyaan dan Tugas
-# 1. Buatlah form yang menampilkan <i>dropdown</i>  menu dan <i>listbox</i> dengan multiple selection
+# 1. Buatlah form yang menampilkan <i>(dropdown)</i>  menu dan <i>(listbox)</i> dengan multiple selection
 
 # a. Membuat DropDown
 ![image](https://github.com/RianFauza/Lab3Web/assets/115771479/45f46b1a-1a4b-4e8a-8dbf-0b4eceb4b097)
